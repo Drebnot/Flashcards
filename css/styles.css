@@ -1,6 +1,25 @@
+button {
+  justify-content: center;
+  margin-left: 450px;
+  margin-right: 430px;
+
+}
+
 .reveal {
   display: block;
 }
+
 .hidden {
   display: none;
+}
+
+.card{
+  justify-content: center
+  width: 100px;
+  height: auto;
+}
+
+.card-header{
+  color: white;
+  text-align: center;
 }
